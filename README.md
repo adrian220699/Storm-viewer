@@ -1,4 +1,4 @@
-#STORM VIEWER
+##STORM VIEWER
 
 En este proyecto, se realizó una aplicación que permitirá a los usuarios desplazarse por una lista de imágenes y luego seleccionar una para mostrarla en pantalla.
 
