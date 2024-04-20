@@ -52,3 +52,5 @@ Posteriormente almacenamos las imagenes dentro del arreglo.
 
 
 ![](https://github.com/adrian220699/Storm-viewer/blob/main/img_05.png?raw=true)
+
+
