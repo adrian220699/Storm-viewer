@@ -1,8 +1,8 @@
-#STORM VIEWER
+# STORM VIEWER
 
 En este proyecto, se realizó una aplicación que permitirá a los usuarios desplazarse por una lista de imágenes y luego seleccionar una para mostrarla en pantalla.
 
-# Listado de imágenes con FileManager
+## Listado de imágenes con FileManager
 
 ![](https://github.com/adrian220699/Storm-viewer/blob/main/img_01.png?raw=true)
 
@@ -28,29 +28,30 @@ Posteriormente almacenamos las imagenes dentro del arreglo.
 `pictures.append(item)`
 
 
-# Diseñando interfaz
+## Diseñando interfaz
 
 
 ![](https://github.com/adrian220699/Storm-viewer/blob/main/img_02.png?raw=true)
 
 
 
-#Construyendo una pantalla de detalles
+## Construyendo una pantalla de detalles
 
 
 ![](https://github.com/adrian220699/Storm-viewer/blob/main/img_03.png?raw=true)
 
 
 
-#Cargando imágenes con UIImage
+## Cargando imágenes con UIImage
 
 
 ![](https://github.com/adrian220699/Storm-viewer/blob/main/img_04.png?raw=true)
 
 
-#Ajustes finales: hidesBarsOnTap y títulos grandes
+## Ajustes finales: hidesBarsOnTap y títulos grandes
 
 
 ![](https://github.com/adrian220699/Storm-viewer/blob/main/img_05.png?raw=true)
+
 
 
